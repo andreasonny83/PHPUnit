@@ -1,4 +1,5 @@
 <?php
+namespace App\Bank;
 /**
  * Simple Money class for testing purpose
  */

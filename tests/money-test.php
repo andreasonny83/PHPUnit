@@ -1,5 +1,5 @@
 <?php
-require_once(dirname(dirname(__FILE__)) . '/classes/money.php');
+use App\Bank\Money;
 
 Class MoneyTest extends PHPUnit_Framework_TestCase {
 
