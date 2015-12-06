@@ -1,0 +1,17 @@
+{
+    "name": "andreasonny/phpunit",
+    "authors": [
+        {
+            "name": "Andrea SonnY",
+            "email": "andreasonny83@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+      "psr-0": {
+        "Sonny": "classes/"
+      }
+    }
+}
